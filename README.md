@@ -1,2 +1,3 @@
 # wwf-auto-test
-Auto-testing framework for https://www.worldwildlife.org/
+Auto-tests for https://www.worldwildlife.org/
+Mindmap describing functionality: https://github.com/asbuyanov/wwf-auto-test/blob/main/materials/maindmaps/wwf-main-page-mindmap-functional.png
